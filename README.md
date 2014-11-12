@@ -51,3 +51,4 @@ Both the example .apk and fontview.jar are available in the bin/ directory.
         fontView.addBackgroundColor(white);
         fontView.addOuterColor(white);
 ```
+and I added some stuff
